@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "generatedAt": "2026-04-05T07:34:36.730Z",
+  "locales": [
+    "ar",
+    "en"
+  ],
+  "detailCount": 132,
+  "audioCount": 397,
+  "files": {
+    "ar": "/ar/husn_ar.json",
+    "en": "/en/husn_en.json",
+    "audioManifest": "/audio/manifest.json"
+  }
+}
